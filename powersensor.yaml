@@ -2,7 +2,7 @@
 blueprint:
   name: AWTRIX Power Sensor
   description: >
-    This blueprint will show the current solar energy received.
+    This blueprint will show the current power consumption.
     
     It uses a icons 630 (solar-green), 630 (solar-white-dyn), 630 (solar-static) that you need to install.
 
