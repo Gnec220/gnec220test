@@ -1,6 +1,6 @@
 ---
 blueprint:
-  name: AWTRIX Solar Energy Monitor
+  name: AWTRIX Power Sensor
   description: >
     This blueprint will show the current solar energy received.
     
